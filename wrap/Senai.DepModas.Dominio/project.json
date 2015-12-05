@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net452": {
+      "wrappedProject": "../../Senai.DepModas.Dominio/Senai.DepModas.Dominio.csproj",
+      "bin": {
+        "assembly": "../../Senai.DepModas.Dominio/obj/{configuration}/Senai.DepModas.Dominio.dll",
+        "pdb": "../../Senai.DepModas.Dominio/obj/{configuration}/Senai.DepModas.Dominio.pdb"
+      }
+    }
+  }
+}
